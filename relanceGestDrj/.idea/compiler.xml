@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="pdv-telco-add-script_main" target="1.8" />
+      <module name="pdv-telco-add-script_test" target="1.8" />
+      <module name="sim-swap-4G_main" target="1.8" />
+      <module name="sim-swap-4G_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
